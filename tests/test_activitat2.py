@@ -1,6 +1,7 @@
 import pytest
 
-import es_primo as es_primo
+from ci_es_primo.src import es_primo
+
 
 def test_es_primo_1():
     assert es_primo.es_primo(1) == False
