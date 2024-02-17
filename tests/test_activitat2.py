@@ -1,6 +1,7 @@
 import pytest
 
-from ..src import es_primo
+from ci_es_primo.src import es_primo
+
 
 
 
