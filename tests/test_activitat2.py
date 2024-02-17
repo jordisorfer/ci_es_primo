@@ -1,6 +1,7 @@
 import pytest
 
-from ci_es_primo.src import es_primo
+from src import es_primo
+
 
 
 def test_es_primo_1():
