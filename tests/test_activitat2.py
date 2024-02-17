@@ -1,6 +1,6 @@
 import pytest
+import src.es_primo as es_primo
 
-from src import es_primo
 
 
 
