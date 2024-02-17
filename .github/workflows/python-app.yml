@@ -34,4 +34,5 @@ jobs:
         pylint --fail-under=10 src      
     - name: Proves amb pytest
       run: |
+        cd ..
         pytest
